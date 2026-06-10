@@ -24,7 +24,7 @@ The data type to be logged ("responses") and the processing purpose are left uns
 
 ### Condition 2: Data type disambiguation
 
-The element resolved is what data is stored: only transcribed text is stored; raw audio is not retained. (Targets the retention obligation, OB7.)
+The element resolved is what data is stored: only transcribed text is stored; raw audio is not retained. (Targets the retention obligation, OB7.) Specificatoins generated from this prompt are stored under `disambiguated prompt 1/`. 
 
 > **Prompt:**
 > 
