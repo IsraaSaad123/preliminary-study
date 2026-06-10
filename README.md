@@ -32,7 +32,7 @@ The element resolved is what data is stored: only transcribed text is stored; ra
 
 ### Condition 3: Processing purpose disambiguation
 
-The element resolved is the processing purpose: the voice audio is processed only to recognise numerical content, not to identify speakers. (Targets the special‑category obligation, OB4.) The data type to be logged is left ambiguous.
+The element resolved is the processing purpose: the voice audio is processed only to recognise numerical content, not to identify speakers. (Targets the special‑category obligation, OB4.) The data type to be logged is left ambiguous. Specificatoins generated from this prompt are stored under `disambiguated prompt 2/`. 
 
 > **Prompt:**
 > 
